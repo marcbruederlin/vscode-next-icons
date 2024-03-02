@@ -3,39 +3,31 @@
   "displayName": "vscode-next-icons",
   "description": "Next.js icon pack for Visual Studio Code",
   "version": "0.0.1",
+  "icon": "extension-marketplace-icon.png",
+  "publisher": "marcbruederlin",
+  "author": {
+    "name": "Marc Brüderlin"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
   "categories": [
-    "Other"
+    "Themes"
   ],
-  "activationEvents": [],
-  "main": "./out/extension.js",
   "contributes": {
-    "commands": [
+    "iconThemes": [
       {
-        "command": "vscode-next-icons.helloWorld",
-        "title": "Hello World"
+        "id": "next-icons",
+        "label": "Next Icons",
+        "path": "./fileicons/next-icons.json"
       }
     ]
   },
-  "scripts": {
-    "vscode:prepublish": "npm run compile",
-    "compile": "tsc -p ./",
-    "watch": "tsc -watch -p ./",
-    "pretest": "npm run compile && npm run lint",
-    "lint": "eslint src --ext ts",
-    "test": "vscode-test"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcbruederlin/vscode-next-icons.git"
   },
-  "devDependencies": {
-    "@types/vscode": "^1.87.0",
-    "@types/mocha": "^10.0.6",
-    "@types/node": "18.x",
-    "@typescript-eslint/eslint-plugin": "^7.0.2",
-    "@typescript-eslint/parser": "^7.0.2",
-    "eslint": "^8.56.0",
-    "typescript": "^5.3.3",
-    "@vscode/test-cli": "^0.0.6",
-    "@vscode/test-electron": "^2.3.9"
+  "bugs": {
+    "url": "https://github.com/marcbruederlin/vscode-next-icons/issues"
   }
 }
