@@ -1,19 +1,35 @@
 {
-  "name": "vscode-next-icons",
-  "displayName": "vscode-next-icons",
-  "description": "Next.js icon pack for Visual Studio Code",
+  "name": "next-icons",
+  "displayName": "Next.js Icons",
+  "description": "A carefully crafted set of file icons tailored specifically for Next.js projects",
+  "license": "MIT",
   "version": "0.0.1",
-  "icon": "extension-marketplace-icon.png",
+  "icon": "marketplace-icon.png",
   "publisher": "marcbruederlin",
   "author": {
     "name": "Marc Brüderlin"
   },
-  "engines": {
-    "vscode": "^1.87.0"
-  },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme",
+    "file-icon-theme",
+    "file icons",
+    "next.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcbruederlin/vscode-next-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcbruederlin/vscode-next-icons/issues"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
   "contributes": {
     "iconThemes": [
       {
@@ -23,11 +39,10 @@
       }
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/marcbruederlin/vscode-next-icons.git"
+  "scripts": {
+    "release": "release-it"
   },
-  "bugs": {
-    "url": "https://github.com/marcbruederlin/vscode-next-icons/issues"
+  "devDependencies": {
+    "release-it": "^17.1.1"
   }
 }
