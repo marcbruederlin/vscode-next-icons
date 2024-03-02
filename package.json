@@ -38,11 +38,5 @@
         "path": "./fileicons/next-icons.json"
       }
     ]
-  },
-  "scripts": {
-    "release": "release-it"
-  },
-  "devDependencies": {
-    "release-it": "^17.1.1"
   }
 }
