@@ -210,7 +210,7 @@
     "tailwind.config.js": "_tailwind-dark",
     "postcss.config.ts": "_gear-dark",
     "postcss.config.js": "_gear-dark",
-    "next.config.ts": "_gear-dark",
+    "next.config.mjs": "_gear-dark",
     "next.config.js": "_gear-dark",
     ".prettierrc": "_gear-dark",
     ".prettierrc.json": "_gear-dark",
