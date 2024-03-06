@@ -204,6 +204,7 @@
     "middleware.js": "_arrow-left-right-dark",
     "instrumentation.ts": "_bug-dark",
     "instrumentation.js": "_bug-dark",
+    ".gitkeep": "_git-dark",
     ".gitignore": "_git-dark",
     ".gitattributes": "_git-dark",
     "tailwind.config.ts": "_tailwind-dark",
