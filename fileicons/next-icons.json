@@ -180,6 +180,7 @@
     "gif": "_media-dark",
     "png": "_media-dark",
     "ico": "_media-dark",
+    "db": "_database-dark",
     "sqlite": "_database-dark",
     "d.ts": "_shapes-dark"
   },
@@ -274,6 +275,7 @@
       "png": "_media-light",
       "ico": "_media-light",
       "sqlite": "_database-light",
+      "db": "_database-light",
       "d.ts": "_shapes-light"
     },
     "fileNames": {
