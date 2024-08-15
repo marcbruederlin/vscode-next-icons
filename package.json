@@ -3,7 +3,7 @@
   "displayName": "Next.js Icons",
   "description": "A carefully crafted set of file icons tailored specifically for Next.js projects.",
   "license": "MIT",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "icon": "marketplace-icon.png",
   "publisher": "marcbruederlin",
   "author": {
@@ -35,7 +35,17 @@
       {
         "id": "next-icons",
         "label": "Next Icons",
-        "path": "./fileicons/next-icons.json"
+        "path": "./fileicons/default.json"
+      },
+      {
+        "id": "next-icons-light",
+        "label": "Next Icons (Light)",
+        "path": "./fileicons/light.json"
+      },
+      {
+        "id": "next-icons-dark",
+        "label": "Next Icons (Dark)",
+        "path": "./fileicons/dark.json"
       }
     ]
   }
