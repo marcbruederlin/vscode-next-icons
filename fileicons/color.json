@@ -1,0 +1,172 @@
+{
+  "hidesExplorerArrows": true,
+  "iconDefinitions": {
+    "_folder-color": {
+      "iconPath": "./icons/folder-color.svg"
+    },
+    "_folder-open-color": {
+      "iconPath": "./icons/folder-open-color.svg"
+    },
+    "_layout-color": {
+      "iconPath": "./icons/layout-color.svg"
+    },
+    "_loading-color": {
+      "iconPath": "./icons/loading-color.svg"
+    },
+    "_page-color": {
+      "iconPath": "./icons/page-color.svg"
+    },
+    "_error-color": {
+      "iconPath": "./icons/error-color.svg"
+    },
+    "_git-color": {
+      "iconPath": "./icons/git-color.svg"
+    },
+    "_tailwind-color": {
+      "iconPath": "./icons/tailwind-color.svg"
+    },
+    "_gear-color": {
+      "iconPath": "./icons/gear-color.svg"
+    },
+    "_lock-color": {
+      "iconPath": "./icons/lock-color.svg"
+    },
+    "_terminal-color": {
+      "iconPath": "./icons/terminal-color.svg"
+    },
+    "_hash-color": {
+      "iconPath": "./icons/hash-color.svg"
+    },
+    "_braces-color": {
+      "iconPath": "./icons/braces-color.svg"
+    },
+    "_code-slash-color": {
+      "iconPath": "./icons/code-slash-color.svg"
+    },
+    "_bug-color": {
+      "iconPath": "./icons/bug-color.svg"
+    },
+    "_markdown-color": {
+      "iconPath": "./icons/markdown-color.svg"
+    },
+    "_folder-media-color": {
+      "iconPath": "./icons/folder-media-color.svg"
+    },
+    "_media-color": {
+      "iconPath": "./icons/media-color.svg"
+    },
+    "_database-color": {
+      "iconPath": "./icons/database-color.svg"
+    },
+    "_arrow-left-right-color": {
+      "iconPath": "./icons/arrow-left-right-color.svg"
+    },
+    "_shapes-color": {
+      "iconPath": "./icons/shapes-color.svg"
+    },
+    "_file-color": {
+      "iconPath": "./icons/file-color.svg"
+    },
+    "_route-color": {
+      "iconPath": "./icons/route-color.svg"
+    },
+    "_react-color": {
+      "iconPath": "./icons/react-color.svg"
+    }
+  },
+  "file": "_file-color",
+  "folder": "_folder-color",
+  "folderExpanded": "_folder-open-color",
+  "folderNames": {
+    "public": "_folder-media-color"
+  },
+  "languageIds": {
+    "css": "_hash-color",
+    "scss": "_hash-color",
+    "markdown": "_markdown-color",
+    "javascriptreact": "_react-color",
+    "javascript": "_braces-color",
+    "typescript": "_braces-color",
+    "typescriptreact": "_react-color",
+    "xml": "_code-slash-color",
+    "yaml": "_gear-color",
+    "sql": "_database-color"
+  },
+  "fileExtensions": {
+    "json": "_gear-color",
+    "lock": "_lock-color",
+    "lockb": "_lock-color",
+    "log": "_bug-color",
+    "css": "_hash-color",
+    "js": "_braces-color",
+    "xml": "_code-slash-color",
+    "html": "_code-slash-color",
+    "md": "_markdown-color",
+    "svg": "_media-color",
+    "jpg": "_media-color",
+    "jpeg": "_media-color",
+    "gif": "_media-color",
+    "png": "_media-color",
+    "ico": "_media-color",
+    "db": "_database-color",
+    "sqlite": "_database-color",
+    "d.ts": "_shapes-color"
+  },
+  "fileNames": {
+    "layout.tsx": "_layout-color",
+    "layout.jsx": "_layout-color",
+    "template.tsx": "_layout-color",
+    "template.jsx": "_layout-color",
+    "loading.tsx": "_loading-color",
+    "loading.jsx": "_loading-color",
+    "page.tsx": "_page-color",
+    "page.jsx": "_page-color",
+    "not-found.tsx": "_error-color",
+    "not-found.jsx": "_error-color",
+    "global-error.tsx": "_error-color",
+    "global-error.jsx": "_error-color",
+    "error.tsx": "_error-color",
+    "error.jsx": "_error-color",
+    "route.ts": "_route-color",
+    "route.js": "_route-color",
+    "middleware.ts": "_arrow-left-right-color",
+    "middleware.js": "_arrow-left-right-color",
+    "instrumentation.ts": "_bug-color",
+    "instrumentation.js": "_bug-color",
+    ".gitkeep": "_git-color",
+    ".gitignore": "_git-color",
+    ".gitattributes": "_git-color",
+    "tailwind.config.ts": "_tailwind-color",
+    "tailwind.config.js": "_tailwind-color",
+    "postcss.config.ts": "_gear-color",
+    "postcss.config.js": "_gear-color",
+    "next.config.mjs": "_gear-color",
+    "next.config.js": "_gear-color",
+    ".prettierrc": "_gear-color",
+    ".prettierrc.json": "_gear-color",
+    ".prettierrc.yml": "_gear-color",
+    ".prettierrc.yaml": "_gear-color",
+    ".prettierrc.json5": "_gear-color",
+    ".prettierrc.js": "_gear-color",
+    "prettier.config.js": "_gear-color",
+    ".prettierrc.mjs": "_gear-color",
+    "prettier.config.mjs": "_gear-color",
+    ".prettierrc.cjs": "_gear-color",
+    "prettier.config.cjs": "_gear-color",
+    ".prettierrc.toml": "_gear-color",
+    ".eslintrc": "_gear-color",
+    ".eslintrc.js": "_gear-color",
+    ".eslintrc.cjs": "_gear-color",
+    ".eslintrc.yaml": "_gear-color",
+    ".eslintrc.yml": "_gear-color",
+    ".eslintrc.json": "_gear-color",
+    "editorconfig": "_gear-color",
+    ".env": "_terminal-color",
+    ".env.production": "_terminal-color",
+    ".env.development": "_terminal-color",
+    ".env.local": "_terminal-color",
+    ".env.example": "_terminal-color"
+  }
+}
+
+
